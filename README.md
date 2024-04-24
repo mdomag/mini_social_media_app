@@ -1,2 +1,2 @@
-# mini_social_media_app
+# Mini social media app
 A mini social media app for Android using Kotlin and Firestore Database.
